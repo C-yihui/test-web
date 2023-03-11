@@ -1,0 +1,74 @@
+<idoctype html>
+<html>
+	<head>
+		<title>Pre uni foodventure</title>
+		<link rel="stylesheet" href="styles/main.css">
+	</head>
+	<style type="text/css">
+		body {background: whitesmoke;}
+	</style>
+	<style type="text/css">
+		body {font-family: arial;}
+	</style>
+	<style type="text/css">
+		h2 {background: beige;}
+		h2 {padding: 0px 600px}
+	</style>
+	<style type="text/css">
+		h3 {color: navy;}
+	</style>
+	<style type="text/css">
+		body: {margin: 0}
+	</style>
+	<style type="text/css">
+		nav ul{
+			margin: 0;
+		}
+	</style>
+	<style type="text/css">
+		nav ul li{ 
+		list-style-type:none; 
+		display: inline-block;
+		padding: 10px;
+		}
+	</style>
+	<style type="text/css"></style>
+	<style type="text/css"></style>
+	
+	<body>
+
+		<header><h1>Eat When Ya Bored</h1></header>
+
+		<h2><em><strong>Food Blog</strong></em><br></h2>
+		<p>
+			This is the start of our food adventure, the first being at Meow BBQ place located in Bugis+.<br>
+		<a href="https://www.bing.com/maps?ty=18&q=meow+bbq+bugis%2B&ss=ypid.YN8162x15466150606330154490&segment=Restaurant&ppois=1.299914002418518_103.85388946533203_meow+bbq+bugis%2B_YN8162x15466150606330154490%7E&cp=1.299923%7E103.853889&lvl=16.0&v=2&sV=1&FORM=SNAPST">Meow Map</a>
+		</p>
+		<p><h3>Items Included</h3>
+
+		<ul>
+			<li>Item 1</li>
+			<li>Item 2</li>
+		</ul>
+		</p>
+
+		<p>
+			<h3>Additoonal Prices</h3>
+		<ol>
+			<li>Add price 1</li>
+			<li>Add price 2</li>
+		</ol>
+		</p>
+		<img src="https://images-sg.girlstyle.com/wp-content/uploads/2022/09/cd358138.png">
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Links</a></li>
+		</nav>
+
+		<footer>©2023 Chy Yi Hui</footer>
+	</body>
+
+</html>
